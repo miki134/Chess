@@ -8,7 +8,7 @@ Standard usage of cmake
 
 ## Design
 
-![screenshot](https://github.com/miki134/Chess_QT/blob/master/screenshot.PNG)
+![screenshot](https://github.com/miki134/Chess_QT/blob/main/screenshot.PNG)
 
 ## Code
 
