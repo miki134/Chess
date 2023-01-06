@@ -16,4 +16,7 @@
         <file>knight_black.png</file>
         <file>knight_white.png</file>
     </qresource>
+    <qresource prefix="/icons">
+        <file>icon.png</file>
+    </qresource>
 </RCC>
