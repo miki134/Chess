@@ -4,7 +4,7 @@ Chess game made with QT
 
 ## Installation
 
-Standard usage of cmake
+Standard usage of cmake or see at last releases
 
 ## Design
 

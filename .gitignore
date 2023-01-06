@@ -58,3 +58,6 @@ compile_commands.json
 *.sln
 *.vcxproj*
 *.vs
+
+# output files
+out/
